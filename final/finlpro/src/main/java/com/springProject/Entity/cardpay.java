@@ -1,5 +1,5 @@
 package com.springProject.Entity;
 
-public class cardpayment {
+public class cardpay {
 
 }
